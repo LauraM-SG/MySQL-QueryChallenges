@@ -1,2 +1,4 @@
 # DSpt18_Chapter1
-Here all the Tasks from Chapter1 DSPT#18
+Hi everybody!
+This respository is hosting all solutions from Chapter1 tasks 
+
